@@ -12,4 +12,4 @@ Then loaded the generate model in `3_0.84228ValidationAfterTrainingProcess lr_2e
 https://drive.google.com/drive/folders/1Ydb6QTDLS2AdpNXP1a9mKGGxJQ9dS9c-?usp=sharing
 
 
-Then loaded the final generated model in `final_4_0.84268ValidationAfterTrainingProcess lr_2e-4_random3407(500)+random42(300)+random12345(400)+random2000(800)+random100(800)+random3000(1200).ipynb`, after running this code it will generate the final model we used to forecast the test dataset.
+Then loaded the final generated model in `final_4_0.84268ValidationAfterTrainingProcess lr_2e-4_random3407(500)+random42(300)+random12345(400)+random2000(800)+random100(800)+random3000(1200).ipynb`, after running this code it will generate the final model we used to forecast the test dataset. Our submitted csv file is generated through this final model.
